@@ -1,6 +1,6 @@
 # 📊 Multivariate - Logistic Regression
 
-> Data analysis and modeling with logistic regression, focusing on optimizing preprocessing and feature selection for a robust and interpretable model.
+> Data analysis and modeling with logistic regression, focusing on optimizing preprocessing and feature selection for a interpretable model.
 
 ### > 📋 Description
 
