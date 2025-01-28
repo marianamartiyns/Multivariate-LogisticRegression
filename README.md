@@ -8,7 +8,7 @@ This project aims to predict the likelihood of churn (service cancellation) amon
 
 ### > 🧩 Data Cleaning, Data Wrangling, and Model
 
-- [x] Removal of constant and non-useful columns for modeling  
+- [x] Drop of constant and non-useful columns for modeling  
 - [x] Standardization of numerical features  
 - [x] One-hot encoding of categorical features  
 - [x] Train-test split of data  
